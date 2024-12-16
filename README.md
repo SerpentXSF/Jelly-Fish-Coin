@@ -1,7 +1,8 @@
 # Jelly-Fish-Coin
 Jelly Fish Coin Github
 
-https://static.wixstatic.com/media/84dc5d_426b0421cf294bf590d6c3e108541f37~mv2.png/v1/crop/x_0,y_28,w_839,h_572,q_90,enc_avif,quality_auto/84dc5d_426b0421cf294bf590d6c3e108541f37~mv2.png 
+![image](https://github.com/user-attachments/assets/7fba723b-9701-43f3-af2e-8d08b8bc1501)
+
 
 **Road Map**
 
